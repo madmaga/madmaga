@@ -31,7 +31,10 @@
 </div>
 
 
-✉️ Для связи со мной: 📞 +7-999-043-02-09 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:madmaga94@gmail.com)  
+✉️ Для связи со мной: 
+📞 +7-999-043-02-09 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:madmaga94@gmail.com)  
+
 📲 Мессенджеры:
   <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/madmaga)</a>
   <a href="">[![WHATSAPP](https://img.shields.io/badge/-WHATSAPP-28D146?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF)](https://wa.me/9990430209)</a>    
