@@ -10,8 +10,7 @@
    Я Аналитик Данных с высшим IT-образованием. Ранее я занималась анализом данных в рамках андеррайтинга в банковской сфере.
 Для углубления знаний в анализе прошла несколько онлайн курсов, с помощью которых освоила Python, SQL, математическую статистику, теорию вероятности, продуктовые метрики и фреймворки для развития продукта. На академических проектах практиковалась в проведение статистических тестов, создании дашбордов в Tableau, использовании GIT и AIRFLOW.
     
- ✉️ Для связи со мной: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:madmaga94@gmail.com)  
-  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/madmaga)</a>
+ ✉️ Для связи со мной:     [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:madmaga94@gmail.com)  <a href="">[![Telegram](https://img.shields.io/badge/-Telegram-27A7E7?style=for-the-badge&logo=telegram)](https://t.me/madmaga)</a>
 
 
 ### :hammer_and_wrench: Мои навыки: 
